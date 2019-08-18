@@ -8,4 +8,4 @@ untuned model 
 
 ## Note
 - **PLEASE OPEN THE PROJECT IN SPARK ENVIRONEMTNT**
-- The link of *Movie Recommendation Engine Development (Spark, Python, SQL).html* file: file:///Users/souyixin/Documents/GitHub/Movie-Recommendation-Engine-Development--Spark--Python--SQL-/Movie%20Recommendation%20Engine%20Development%20(Spark,%20Python,%20SQL).html
+- The link of *[Movie Recommendation Engine Development (Spark, Python, SQL).html](file:///Users/souyixin/Documents/GitHub/Movie-Recommendation-Engine-Development--Spark--Python--SQL-/Movie%20Recommendation%20Engine%20Development%20(Spark,%20Python,%20SQL).html)* file
